@@ -3,7 +3,7 @@ layout: post
 title: "Ruby2.0.0+Rails4.0+MySQLなrailsアプリをherokuにデプロイ(2013/7月版)"
 date: 2013-07-28 22:22
 comments: true
-categories: ruby,rails,heroku
+categories: ruby rails heroku
 ---
 
 久しぶりにheroku触ってみるとassetでハマることも無く、ruby2.0.0使うのも一行。
