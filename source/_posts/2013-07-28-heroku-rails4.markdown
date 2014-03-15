@@ -3,7 +3,7 @@ layout: post
 title: "Ruby2.0.0+Rails4.0+MySQLなrailsアプリをherokuにデプロイ(2013/7月版)"
 date: 2013-07-28 22:22
 comments: true
-published: false
+published: true
 categories: ruby rails heroku
 ---
 
