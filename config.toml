@@ -1,0 +1,40 @@
+baseURL = "https://u1tnk.github.io/"
+languageCode = "ja-jp"
+title = "u1tnk.log"
+theme = "Hugo-Octopress"
+
+[permalinks]
+  post = "/blog/:year/:month/:day/:slug/"
+
+[params]
+  sidebarMenuEnabled = false
+
+  author = "u1tnk"
+
+  rss = false
+
+  compactIndex = true
+
+  googleAnalytics = "UA-2532590-5"
+
+  dateFormat = "2006/01/02"
+
+  disableReadingTime = true
+
+[[menu.main]]
+  Name = "posts"
+  URL = "/"
+  weight = -5
+
+[[menu.main]]
+  Name = "about"
+  URL = "/about"
+  weight = -4
+
+[[menu.main]]
+  Name = "rss"
+  URL = "/atom.xml"
+  weight = -3
+
+[outputFormats.RSS]
+  baseName = "atom"
