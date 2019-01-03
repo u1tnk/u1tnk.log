@@ -1,7 +1,6 @@
 +++
 title = "Grapeが良さそうだったけどやめた"
 date = "2014-08-14"
-slug = "grape-research"
 categories = ["rails", "grape"]
 +++
 

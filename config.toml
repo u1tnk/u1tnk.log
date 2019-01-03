@@ -2,9 +2,10 @@ baseURL = "https://u1tnk.github.io/"
 languageCode = "ja-jp"
 title = "u1tnk.log"
 theme = "Hugo-Octopress"
+enableEmoji = true
 
 [permalinks]
-  post = "/blog/:year/:month/:day/:slug/"
+  post = "/blog/:year/:month/:day/:filename/"
 
 [params]
   sidebarMenuEnabled = false
@@ -20,6 +21,8 @@ theme = "Hugo-Octopress"
   dateFormat = "2006/01/02"
 
   disableReadingTime = true
+
+  customCSS = ["css/custom.css"]
 
 [[menu.main]]
   Name = "posts"

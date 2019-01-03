@@ -1,7 +1,6 @@
 +++
 title = "ansible 勉強会 #1メモ"
 date = "2014-06-19"
-slug = "2014/06/19/ansible-study-01"
 categories = ["ansible"]
 +++
 

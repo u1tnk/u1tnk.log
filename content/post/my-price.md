@@ -1,7 +1,6 @@
 +++
 title = "フリーランスとしての自己紹介と仕事の条件"
 date = "2018-09-09"
-slug = "my-price"
 categories = ["money"]
 +++
 

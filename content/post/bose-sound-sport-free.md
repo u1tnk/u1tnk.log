@@ -1,7 +1,6 @@
 +++
 title = "Bose SoundSport Free 一ヶ月使用レビュー"
 date = "2018-04-15"
-slug = "bose-sound-sport-free"
 categories = ["gadget", "bose"]
 +++
 

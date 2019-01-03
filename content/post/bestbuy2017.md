@@ -1,7 +1,6 @@
 +++
 title = "買って良かったもの2017"
 date = "2017-12-31"
-slug = "bestbuy2017"
 categories = ["gadget"]
 +++
 

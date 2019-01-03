@@ -1,7 +1,6 @@
 +++
 title = "Ruby2.0.0+Rails4.0+MySQLなrailsアプリをherokuにデプロイ(2013/7月版)"
 date = "2013-07-28"
-slug = "heroku-rails4"
 published = false
 categories = ["rails", "heroku"]
 +++

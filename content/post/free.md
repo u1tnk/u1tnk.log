@@ -1,7 +1,6 @@
 +++
 title = "もともと自営業ですが真の自営業になりました"
 date = "2015-10-04"
-slug = "free"
 categories = ["freelance", "job"]
 +++
 

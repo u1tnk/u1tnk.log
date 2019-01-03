@@ -1,7 +1,6 @@
 +++
 title = "Team Geek読んだ"
 date = "2014-03-20"
-slug = "team-geek"
 categories = ["book"]
 +++
 

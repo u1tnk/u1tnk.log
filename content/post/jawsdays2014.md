@@ -1,7 +1,6 @@
 +++
 title = "JAWS DAYS 2014に行ってきました"
 date = "2014-03-15"
-slug = "jawsdays2014"
 categories = ["aws"]
 +++
 

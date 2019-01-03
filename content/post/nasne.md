@@ -1,7 +1,6 @@
 +++
 title = "nasne+iOSは無茶苦茶便利だがTwonkeyBeamは使わない方が幸せ。黙ってDixim使っとけ！"
 date = "2013-07-28"
-slug = "nasne"
 categories = ["gadget"]
 +++
 nasne良さそうだけど、torne持ってるし録画サーバあるしいらんと思ってたけど、録画サーバが壊れた(たぶんPT2の故障)ので検討。

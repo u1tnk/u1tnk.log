@@ -1,7 +1,6 @@
 +++
 title = "初心者向けキャンプ用品メーカーまとめ"
 date = "2018-07-28"
-slug = "camp-maker"
 categories = ["camp"]
 +++
 

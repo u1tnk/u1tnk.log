@@ -1,7 +1,6 @@
 +++
 title = "EC2インスタンス価格の必要なところだけ表にしてみた"
 date = "2014-04-17"
-slug = "aws-price"
 categories = ["aws", "money"]
 +++
 ##  何？
