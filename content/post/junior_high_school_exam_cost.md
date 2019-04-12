@@ -1,6 +1,7 @@
 ---
 title: "中学受験ウチの場合の費用まとめ"
 date: 2019-02-04T20:16:16+09:00
+categories: ["family", "money"]
 draft: false
 ---
 
