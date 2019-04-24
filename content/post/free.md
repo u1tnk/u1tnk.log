@@ -1,7 +1,7 @@
 +++
 title = "もともと自営業ですが真の自営業になりました"
 date = "2015-10-04"
-categories = ["freelance", "job"]
+categories = ["freelancer", "job"]
 +++
 
 ![violin](/images/toua.png)
