@@ -1,6 +1,7 @@
 ---
 title: "買って(金出して)良かったもの2019"
 date: 2020-01-07T11:29:59+09:00
+categories: ["gadget"]
 draft: false
 ---
 
