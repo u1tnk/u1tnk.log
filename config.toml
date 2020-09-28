@@ -41,3 +41,8 @@ enableEmoji = true
 
 [outputFormats.RSS]
   baseName = "atom"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
