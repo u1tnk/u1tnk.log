@@ -2,6 +2,7 @@
 title: "WSL2でvim/tmuxでクリップボード共有できるようにする"
 date: 2021-06-28T15:26:11+09:00
 draft: false
+categories: ["wsl2", "docker"]
 ---
 
 

@@ -2,6 +2,7 @@
 title: "WSL2で rails test:system を動かす為の設定"
 date: 2021-06-28T11:17:59+09:00
 draft: false
+categories: ["wsl2", "docker"]
 ---
 
 chromeインストールなど若干環境構築難易度が高いのでまとめた。
