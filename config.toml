@@ -1,7 +1,7 @@
 baseURL = "https://u1tnk.github.io/"
 languageCode = "ja-jp"
 title = "u1tnk.log"
-theme = "Hugo-Octopress"
+theme = "PaperMod"
 enableEmoji = true
 
 [permalinks]
