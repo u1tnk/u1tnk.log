@@ -6,6 +6,8 @@ categories: ["coffee"]
 
 [フィヨルドブートキャンプ Part 2 Advent Calendar 2022 - Adventar](https://adventar.org/calendars/7786) の4日目の記事です。
 
+昨日はmaeda-mさんの [Heroku の代替 OSS を試した話 | お日記させていただいてもよろしいでしょうか。](https://www.maeda-m.com/2022/12/03/advent-calendar.html) でした。
+
 [フィヨルドブートキャンプ | FBC](https://bootcamp.fjord.jp/) (以下FBC)の提出物のレビューをするときに参考URLに使えそうな資料を自分で書こうシリーズの2年ぶり2回目となります。
 
 って書いていて気づきましたがAdventCalendarが3回目ということは丸二年以上メンターやってるんですね。早いなあ😲
