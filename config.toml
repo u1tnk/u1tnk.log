@@ -16,7 +16,7 @@ enableEmoji = true
 
   compactIndex = true
 
-  googleAnalytics = "UA-2532590-5"
+  googleAnalytics = ""
 
   dateFormat = "2006/01/02"
 
