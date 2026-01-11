@@ -65,7 +65,7 @@ tweetにも書いてるけど、一台で掃除と一緒に水拭きもやって
 
 アプリも分かりやすくなってるし、進歩早い！
 
-## エスプレッス用も挽けるポータブル電動グラインダー TIMEMORE Whirly 01S
+## エスプレッソ用も挽けるポータブル電動グラインダー TIMEMORE Whirly 01S
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/mynewgear?src=hash&amp;ref_src=twsrc%5Etfw">#mynewgear</a><br>TIMEMORE Whirly 01S ポータブル電動グラインダー<br><br>ちょっと時間はかかるけど、エスプレッソ用にも使えるレベルのも挽けるし置き場所に困ってて電動が欲しい人はアリだと。 <a href="https://t.co/9e1MWZeUbW">pic.twitter.com/9e1MWZeUbW</a></p>&mdash; ゆーいち (@u1tnk) <a href="https://twitter.com/u1tnk/status/2010035670606369004?ref_src=twsrc%5Etfw">January 10, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 愛用している手動グラインダーのTIMEMOREからポータブルな電動ミルが出ていたので、買ってみた。
