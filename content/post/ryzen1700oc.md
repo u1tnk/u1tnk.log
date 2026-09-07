@@ -2,7 +2,11 @@
 title: "Ryzen1700オーバークロック、電力計測"
 date: 2019-01-04T13:30:58+09:00
 categories: ["pc", "benchmark"]
+canonicalURL : "https://3arc.dev/posts/ryzen1700oc/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/ryzen1700oc/)。
+
 
 
 購入から1年版経って今さらオーバークロックやってみるなど。

@@ -2,7 +2,11 @@
 title: フリーランスとしての自己紹介と仕事の条件(2024最新)
 date: 2024-05-25T16:00:00+09:00
 categories: ["money", "work"]
+canonicalURL : "https://3arc.dev/posts/my-price2024/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/my-price2024/)。
+
 
 ## 目的
 

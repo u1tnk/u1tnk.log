@@ -2,7 +2,11 @@
 title: "[初心者向け]変数の命名、基本のキ"
 date: 2022-12-04T15:52:17+09:00
 categories: ["coffee"]
+canonicalURL: "https://3arc.dev/posts/naming_variable/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/naming_variable/)。
+
 
 [フィヨルドブートキャンプ Part 2 Advent Calendar 2022 - Adventar](https://adventar.org/calendars/7786) の4日目の記事です。
 

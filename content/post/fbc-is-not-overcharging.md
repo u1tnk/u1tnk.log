@@ -3,7 +3,11 @@ title: "フィヨルドブートキャンプはぼったくりか？"
 date: 2021-12-04T23:38:58+09:00
 categories: ["fbc", "fjordbootcamp"]
 draft: false
+canonicalURL : "https://3arc.dev/posts/fbc-is-not-overcharging/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/fbc-is-not-overcharging/)。
+
 
 これは[フィヨルドブートキャンプ Part 2 Advent Calendar 2021 - Adventar](https://adventar.org/calendars/6360)の5日目の記事です。
 [フィヨルドブートキャンプ Part 1 Advent Calendar 2021 - Adventar](https://adventar.org/calendars/6331)もどうぞ。

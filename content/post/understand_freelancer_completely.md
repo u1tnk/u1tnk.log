@@ -3,7 +3,11 @@ title: "「フリーランスを完全に理解できる本」を読んだ"
 date: 2019-04-24T23:24:31+09:00
 categories: ["freelancer", "job"]
 draft: false
+canonicalURL : "https://3arc.dev/posts/understand_freelancer_completely/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/understand_freelancer_completely/)。
+
 
 
 [フリーランスを完全に理解できる本(電子) - きりみんちゃんねるしょっぷ - BOOTH](https://kirimin-chan.booth.pm/items/1313813)

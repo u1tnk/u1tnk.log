@@ -2,7 +2,11 @@
 title: "買って良かったもの2024"
 date: 2025-01-01T23:53:27+09:00
 categories: ["gadget"]
+canonicalURL: "https://3arc.dev/posts/bestbuy2024/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/bestbuy2024/)。
+
 
 今年買って良かったもの！
 

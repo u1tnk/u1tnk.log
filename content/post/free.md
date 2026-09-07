@@ -2,7 +2,11 @@
 title = "もともと自営業ですが真の自営業になりました"
 date = "2015-10-04"
 categories = ["freelancer", "job"]
+canonicalURL = "https://3arc.dev/posts/free/"
 +++
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/free/)。
+
 
 ![violin](/images/toua.png)
 

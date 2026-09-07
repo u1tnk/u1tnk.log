@@ -1,11 +1,14 @@
 baseURL = "https://u1tnk.github.io/"
-languageCode = "ja-jp"
+defaultContentLanguage = "ja"
 title = "u1tnk.log"
 theme = "PaperMod"
 enableEmoji = true
 
 [permalinks]
-  post = "/blog/:year/:month/:day/:filename/"
+  post = "/blog/:year/:month/:day/:contentbasename/"
+
+[languages.ja]
+  locale = "ja-jp"
 
 [params]
   sidebarMenuEnabled = false

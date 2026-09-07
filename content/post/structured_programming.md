@@ -2,7 +2,11 @@
 title: "失なわれた構造化プログラミング、そしてオブジェクト指向へ…"
 date: 2020-12-17T20:04:36+09:00
 draft: false
+canonicalURL : "https://3arc.dev/posts/structured_programming/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/structured_programming/)。
+
 
 この記事は[フィヨルドブートキャンプ Part 2 Advent Calendar 2020 - Adventar](https://adventar.org/calendars/5230)の18日目です。 昨日は同じくメンターの[10ヶ月フィヨルドブートキャンプのメンターをして感じたプログラミング学習中に落ち込みやすい3つのこと｜りほ｜note](https://note.com/rlho/n/n32c3136a56a4)の記事でした。
 初学者ほど学習内容の詳細よりモチベが大事なのでエモい話役に立つよな！って思いました。

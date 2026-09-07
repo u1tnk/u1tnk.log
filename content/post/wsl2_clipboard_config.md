@@ -3,7 +3,11 @@ title: "WSL2でvim/tmuxでクリップボード共有できるようにする"
 date: 2021-06-28T15:26:11+09:00
 draft: false
 categories: ["wsl2", "docker"]
+canonicalURL : "https://3arc.dev/posts/wsl2_clipboard_config/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/wsl2_clipboard_config/)。
+
 
 
 ## 概要

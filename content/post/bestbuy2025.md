@@ -2,7 +2,11 @@
 title: "買って良かったもの2025"
 date: 2025-12-21T23:50:23+09:00
 draft: false
+canonicalURL: "https://3arc.dev/posts/bestbuy2025/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/bestbuy2025/)。
+
 
 もう年末まとめでもなんでも無いけど、せっかく毎年書いてるので…<br/>
 年末は忙しいよ。みんなよく書いてる！みんなすごい！

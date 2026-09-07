@@ -2,7 +2,11 @@
 title: "embulk 0.9系から0.11系へのアップデートメモ"
 date: 2024-09-08T22:57:30+09:00
 draft: false
+canonicalURL : "https://3arc.dev/posts/update_embulk_11/"
 ---
+
+> この記事は[スリーアークに移設しました](https://3arc.dev/posts/update_embulk_11/)。
+
 
 アップデート時に結構ハマったので最低限やったことのメモ。(免責: 環境による)
 
